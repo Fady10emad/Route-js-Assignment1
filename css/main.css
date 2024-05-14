@@ -1,0 +1,21 @@
+.style h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    font-weight: 800;
+}
+.style button{
+    padding: 20px 50px;
+    background-color: blue;
+    color: white;
+}
+.style button:hover{
+    background-color: green;
+
+}
+ p{
+    font-size: 25px;
+    font-weight: 300;
+}
+#Demo2{
+    font-weight:600;
+}
